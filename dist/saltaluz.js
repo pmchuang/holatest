@@ -1,12 +1,8 @@
 'use strict';
 
-/**
- * @ngdoc directive
- * @name wrcApp.directive:checkbox
- * @description
- * # checkbox
- */
-angular.module('testApp')
+angular.module('pominholatest', []);
+
+angular.module('pominholatest')
   .directive('saltaluz', function () {
     return {
       template: '<p>pava electrica</p>',
