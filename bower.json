@@ -1,0 +1,25 @@
+{
+  "name": "pomin.holatest",
+  "authors": [
+    "Pomin Chuang <pomin.chuang@gmail.com>"
+  ],
+  "description": "pomin holatest",
+  "main": "dist/saltaluz.js",
+  "moduleType": [],
+  "keywords": [
+    "holatest"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+        "angular": ">=1.2.0"
+    },
+}
