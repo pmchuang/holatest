@@ -1,9 +1,8 @@
 {
   "name": "pomin-holatest",
-  "main": "dist/saltaluz.js",
   "dependencies": {
 	"angular": ">=1.2.0",
-	"pomin-holatest" : "https://pmchuang@bitbucket.org/pmchuang/mytest.git"
+	"pomin-holatest-bit" : "https://pmchuang@bitbucket.org/pmchuang/mytest.git"
   },
   "ignore": [
     "node_modules",
