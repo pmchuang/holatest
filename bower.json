@@ -1,4 +1,5 @@
 {
+  "name": "pomin-holatest",  
   "dependencies": {
 	"pomin-holatest" : "https://pmchuang@bitbucket.org/pmchuang/mytest.git"
   }
